@@ -1,7 +1,14 @@
 {
   "user": {
     "id": "jBWMVGjm50l6LGwepDoty",
-    "username": "frontendmaster"
+    "userName": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "YPMy5Enim09XgJXxo1KjL",
+      "createdAt": 1681737409103,
+      "name": "Fido",
+      "type": "DOG"
+    }
+  ]
 }
